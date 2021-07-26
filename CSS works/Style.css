@@ -1,0 +1,26 @@
+h1{
+    color: tomato;
+    text-align: center;
+    text-decoration: underline;
+}
+
+body{
+    color: black;
+}
+#style{
+    color:#3ced18;
+    text-align: center;
+    
+    
+
+    
+    
+}
+.style{
+    color: rgb(184, 69, 20);
+    text-align: center;
+}
+h3{
+    color: hsl(194°, 90%, 93%);
+    text-align: center;
+}

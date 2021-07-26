@@ -1,0 +1,67 @@
+.sct-1{
+    border: 1px solid black;
+    width: 280px;
+    height: 180px;
+    padding: 1%;
+
+    background-color: rgb(212, 227, 228);
+    margin-left:39%;
+    margin-top: 2%;
+    position: relative;
+    
+
+}
+
+
+.new{
+    border: black 1px solid;
+    width: 300px;
+    height: 50px;
+    left: 39.3%;
+    top: 55%;
+    
+    position: absolute;
+}
+
+    
+    
+
+button{
+    background-color: darkgreen;
+    width: 8cm;
+    position: absolute;
+    left: 1%;
+    
+}
+h1{
+    text-align: center;
+}
+
+.img{
+    border: 1px solid white;
+    width: 50px;
+    height: 50px;
+    margin-left: 47%;
+    margin-top: 2%;
+    background-color: white;
+
+}
+.button-1{
+    width: 80px;
+    height: 20px;
+    left: 1%;
+    position: absolute;
+    border: white;
+    bottom: 3%;
+}
+
+    
+
+
+    
+    
+
+
+
+
+
